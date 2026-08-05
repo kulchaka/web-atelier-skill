@@ -1,6 +1,6 @@
 ---
 name: web-atelier
-description: Use when the user wants a stylish, modern, premium web page — landing, portfolio, promo, product page, or a new section of an existing site — built via a gated pipeline: step-by-step developer interview, design-dna.json contract from references, static-first build, GSAP motion pass, optional Three.js 3D, final audit. Not for cinematic single-asset landings built around one hero video/image or an immersive scroll story (use premium-landing), multi-page sites, or pixel-perfect mockup recreation.
+description: "Use when the user wants a stylish, modern, premium web page — landing, portfolio, promo, product page, or a new section of an existing site — built via a gated pipeline: step-by-step developer interview, design-dna.json contract from references, static-first build, GSAP motion pass, optional Three.js 3D, final audit. Not for cinematic single-asset landings built around one hero video/image or an immersive scroll story (use premium-landing), multi-page sites, or pixel-perfect mockup recreation."
 ---
 
 # Web Atelier
